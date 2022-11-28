@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Kommentare zu: Woche 9	</title>
+	<atom:link href="/2011/01/woche-9/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/01/woche-9/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=woche-9</link>
+	<description>Über mein zehnmonatiges auf-Tuchfühlung-gehen mit der Schweizer Armee.</description>
+	<lastBuildDate>Sat, 22 Jan 2011 08:42:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		Von: Benjamin Stalder		</title>
+		<link>/2011/01/woche-9/#comment-61</link>
+
+		<dc:creator><![CDATA[Benjamin Stalder]]></dc:creator>
+		<pubDate>Mon, 17 Jan 2011 12:35:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=133#comment-61</guid>
+
+					<description><![CDATA[das ist ein klassiker: immer nach einem längeren wochenende/urlaub geben die herren offiziere einem zu spüren, was es geläutet hat...]]></description>
+			<content:encoded><![CDATA[<p>das ist ein klassiker: immer nach einem längeren wochenende/urlaub geben die herren offiziere einem zu spüren, was es geläutet hat&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

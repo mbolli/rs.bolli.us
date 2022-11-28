@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vorher &#8211; Michu im Krieg</title>
+	<atom:link href="/category/vorher/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Über mein zehnmonatiges auf-Tuchfühlung-gehen mit der Schweizer Armee.</description>
+	<lastBuildDate>Sat, 22 Jan 2011 08:37:03 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Bye Big Apple</title>
+		<link>/2010/10/bye-big-apple/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bye-big-apple</link>
+					<comments>/2010/10/bye-big-apple/#comments</comments>
+		
+		<dc:creator><![CDATA[Michu]]></dc:creator>
+		<pubDate>Tue, 12 Oct 2010 04:08:00 +0000</pubDate>
+				<category><![CDATA[Vorher]]></category>
+		<guid isPermaLink="false">/?p=39</guid>
+
+					<description><![CDATA[Ich habe zwar tatsächlich 22 «photo post cards» geschrieben und in letzter Sekunde verschickt. Aber viel mehr als ein einfacher Gruss und dass man noch lebe, bringt man beim besten Willen nicht drauf. Deshalb hier mal paar Aspekte von New York und paar Tipps.]]></description>
+		
+					<wfw:commentRss>/2010/10/bye-big-apple/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vorbereitungen</title>
+		<link>/2010/08/vorbereitungen/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=vorbereitungen</link>
+					<comments>/2010/08/vorbereitungen/#comments</comments>
+		
+		<dc:creator><![CDATA[Michu]]></dc:creator>
+		<pubDate>Sun, 22 Aug 2010 20:18:53 +0000</pubDate>
+				<category><![CDATA[Vorher]]></category>
+		<guid isPermaLink="false">/?p=30</guid>
+
+					<description><![CDATA[Vorbereitungen? Ja, so paar Dinge sollte man scheinbar doch beachten: Krankenkasse: Bei mehr als 60 zu leistenden Diensttagen kann man die Grundversicherung der Militärversicherung überlassen.  Marschbefehl eingeschickt: Done. Kampfstiefel: Der gescheite Rekrut läuft diese vor Dienstbeginn ein. Die KS waren (&#8230;)<p><a href="/2010/08/vorbereitungen/">Read the rest of this entry &#187;</a></p>]]></description>
+		
+					<wfw:commentRss>/2010/08/vorbereitungen/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

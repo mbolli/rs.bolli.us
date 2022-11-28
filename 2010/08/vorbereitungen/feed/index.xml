@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Kommentare zu: Vorbereitungen	</title>
+	<atom:link href="/2010/08/vorbereitungen/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/08/vorbereitungen/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=vorbereitungen</link>
+	<description>Über mein zehnmonatiges auf-Tuchfühlung-gehen mit der Schweizer Armee.</description>
+	<lastBuildDate>Mon, 23 Aug 2010 07:41:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		Von: Michael Bolli		</title>
+		<link>/2010/08/vorbereitungen/#comment-3</link>
+
+		<dc:creator><![CDATA[Michael Bolli]]></dc:creator>
+		<pubDate>Mon, 23 Aug 2010 07:41:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=30#comment-3</guid>
+
+					<description><![CDATA[Ok, versuche es ;)]]></description>
+			<content:encoded><![CDATA[<p>Ok, versuche es 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Von: Nick Tschannen		</title>
+		<link>/2010/08/vorbereitungen/#comment-2</link>
+
+		<dc:creator><![CDATA[Nick Tschannen]]></dc:creator>
+		<pubDate>Sun, 22 Aug 2010 18:42:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=30#comment-2</guid>
+
+					<description><![CDATA[Gesunde Kost solltest du vielleicht vorher noch etwas geniessen... Je nach Küchenchef wirst du die ziemlich lange nicht mehr zu Gesicht bekommen! :-) ]]></description>
+			<content:encoded><![CDATA[<p>Gesunde Kost solltest du vielleicht vorher noch etwas geniessen&#8230; Je nach Küchenchef wirst du die ziemlich lange nicht mehr zu Gesicht bekommen! 🙂 </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

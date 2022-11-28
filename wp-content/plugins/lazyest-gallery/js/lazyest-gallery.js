@@ -1,0 +1,4 @@
+
+function lg_redirectComments(){if(typeof(lazyestGallery)!='undefined'){theHash=window.location.hash;if((''!=theHash)&&('#comments'!=theHash)){var found=false;$('.commentlist').find('a').each(function(){if($(this).attr('href').match(theHash))found=true;});if(!found){$('#comments').html(lgcomments.searchfor);$('.commentlist').html(('<li>'+lgcomments.pleasewait+theHash.substr(1)+' </li>'));newSearch='lg_comment='+theHash.substr(9)+theHash;if(''!=window.location.search){newSearch=window.location.search+'&'+newSearch;}else{newSearch='?'+newSearch;}
+newLocation=window.location.protocol+'//'+window.location.hostname+window.location.pathname+newSearch;window.location.replace(newLocation);window.location=newLocation;}}}}
+jQuery(window).load(function(){lg_redirectComments();});
